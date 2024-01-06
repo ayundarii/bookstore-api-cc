@@ -5,7 +5,7 @@ This is the documentation for the bookstore API project. This project is built u
 on your terminal :
 1. run **```npm install```** to install dependencies
 2. run **```npx prisma generate```**
-3. run **```npx prisma migrate dev```** to run db migrations
+3. run **```npx prisma db push```** 
 4. run **```npm run seed```**  to run seeder
 5. run **```npm run dev```** to run locally
 
